@@ -1,0 +1,81 @@
+{
+  "db_id": "update_all_mister",
+  "files": {
+    "Scripts/.config/update_all/update_all.pyz": {
+      "size": 418266,
+      "hash": "9b833d280cfb621b7b554c2b0e2fbf19",
+      "tags": [
+        2
+      ],
+      "url": "https://mirror1.undefinedproxy.com/theypsilon/Update_All_MiSTer/5a7ca70be62b5788c429385210e3076e057336df/update_all.pyz"
+    },
+    "Scripts/.config/update_all/mad_db.json.zip": {
+      "size": 77070,
+      "hash": "d53e0b554fda740ed5ade26e50f5ced3",
+      "tags": [
+        2
+      ],
+      "url": "https://mirror1.undefinedproxy.com/theypsilon/Update_All_MiSTer/5a7ca70be62b5788c429385210e3076e057336df/mad_db.json.zip"
+    },
+    "Scripts/.config/update_all/pocket_firmware_details.json": {
+      "size": 235,
+      "hash": "5e8e44afd359fea9c25cb62b82e9d7e6",
+      "tags": [
+        2
+      ],
+      "url": "https://mirror1.undefinedproxy.com/theypsilon/Update_All_MiSTer/5a7ca70be62b5788c429385210e3076e057336df/pocket_firmware_details.json"
+    },
+    "Scripts/.config/update_all/timeline_plus.enc": {
+      "size": 27536,
+      "hash": "f7077684d1078a451336e342f0f34f18",
+      "tags": [
+        2,
+        1
+      ],
+      "url": "https://mirror1.undefinedproxy.com/theypsilon/Update_All_MiSTer/5a7ca70be62b5788c429385210e3076e057336df/timeline_plus.enc"
+    },
+    "Scripts/.config/update_all/timeline.json": {
+      "size": 605,
+      "hash": "5cf6272b8583e8f3b59d27ecaaaec140",
+      "tags": [
+        2,
+        1
+      ],
+      "url": "https://mirror1.undefinedproxy.com/theypsilon/Update_All_MiSTer/5a7ca70be62b5788c429385210e3076e057336df/timeline.json"
+    },
+    "Scripts/update_all.sh": {
+      "size": 6930,
+      "hash": "e25aeebb14046b97e4fd88926faa0cd4",
+      "url": "https://mirror1.undefinedproxy.com/theypsilon/Update_All_MiSTer/5a7ca70be62b5788c429385210e3076e057336df/update_all.sh"
+    },
+    "Scripts/update_all_latest_log.sh": {
+      "size": 1228,
+      "hash": "4b766fef7cfaf2015e986e6b09fd11ec",
+      "tags": [
+        2,
+        0
+      ],
+      "url": "https://mirror1.undefinedproxy.com/theypsilon/Update_All_MiSTer/5a7ca70be62b5788c429385210e3076e057336df/update_all_latest_log.sh"
+    },
+    "Scripts/update_all_timeline.sh": {
+      "size": 1226,
+      "hash": "8cf5fd66f2ade2ce5b857784162566ec",
+      "tags": [
+        2,
+        1
+      ],
+      "url": "https://mirror1.undefinedproxy.com/theypsilon/Update_All_MiSTer/5a7ca70be62b5788c429385210e3076e057336df/update_all_timeline.sh"
+    }
+  },
+  "folders": {
+    "Scripts/.config/update_all": {},
+    "Scripts/.config": {},
+    "Scripts": {}
+  },
+  "timestamp": 1770493896,
+  "tag_dictionary": {
+    "updatealllatestlog": 0,
+    "updatealltimeline": 1,
+    "scripts": 2
+  }
+}
